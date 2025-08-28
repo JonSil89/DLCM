@@ -47,3 +47,47 @@ _Onboarding → Active Use & Maintenance → Offboarding & Decommissioning_
 
 ✅ **Goal:** Full lifecycle visibility, security, and compliance.
 
+
+
+
+
+
+# DLCM Automation Suite 🚀  
+**Building secure infrastructures with ISO 27001, NIST & ITIL and DLCM**
+
+## 📌 Kuvaus
+DLCM Automation Suite on kokoelma automaatiotyökaluja ja skriptejä, jotka tukevat digitaalisten palveluiden elinkaaren hallintaa (DLCM), tietoturvaa ja compliance-vaatimuksia (ISO 27001, NIST, ITIL).
+
+## 🧩 Moduulit
+- **AI-Zapier-Workflows** → Zapier-integraatiot, API-automaatio, työnkulkujen hallinta
+- **AI-ClickUp-Automation** → ClickUp API + AI, projektinhallinnan automaatio
+- **AI-Documentation-Pipeline** → AI-avusteinen prosessidokumentointi, compliance-mapping
+- **AI-Compliance-Assistant** → Auditlogien analysointi, kontrollien automatisointi
+
+## 🔍 Tavoitteet
+- Automatisoida kriittiset prosessit (integraatiot, dokumentointi, raportointi)
+- Varmistaa compliance ISO 27001, NIST ja ITIL viitekehysten mukaisesti
+- Toteuttaa modulaarinen arkkitehtuuri DLCM-prosessien hallintaan
+
+## 🛠️ Teknologiat ja työkalut
+- **AI-työkalut**: ChatGPT, Gemini, Copilot
+- **API-toteutukset**: Zapier, ClickUp API
+- **Python**: Automaatioskriptit
+- **Markdown & GitHub**: Dokumentaatio ja julkaisut
+
+## 🔒 Compliance
+- ISO 27001 (Annex A)
+- NIST CSF
+- ITIL-viitekehys
+- DLCM lifecycle auditointi
+
+## ✅ Arkkitehtuuri
+![DLCM-Architecture](diagrams/dlcm-architecture.png)
+
+## 🚀 Käyttö
+1. Kloonaa repo
+2. Asenna riippuvuudet (`pip install -r requirements.txt`)
+3. Siirry haluttuun moduuliin ja aja esimerkit
+
+## 🤝 Kontribuointi
+Tervetuloa kehittämään DLCM Automation Suitea! Tee pull request tai avaa issue.

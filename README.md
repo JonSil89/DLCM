@@ -91,3 +91,28 @@ DLCM Automation Suite on kokoelma automaatiotyökaluja ja skriptejä, jotka tuke
 
 ## 🤝 Kontribuointi
 Tervetuloa kehittämään DLCM Automation Suitea! Tee pull request tai avaa issue.
+
+
+
+# AI-Zapier-Workflows  
+Automatisoidut Zapier-integraatiot, jotka tukevat DLCM-prosesseja ja compliance-vaatimuksia.
+
+## 🛠️ Teknologiat
+- Zapier API
+- Python
+- AI (ChatGPT/Gemini)
+
+## 🔍 Ominaisuudet
+- Käyttäjien lifecycle-hallinta (provisioning → deprovisioning)
+- Slack, Teams ja ClickUp-integraatiot
+- Auditlogien tallennus ISO 27001 & NIST standardien mukaan
+
+## 📂 Rakenne
+
+## ai-zapier-workflows/
+├── README.md
+├── scripts/
+├── examples/
+└── docs/
+
+

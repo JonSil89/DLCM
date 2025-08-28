@@ -75,7 +75,7 @@ DLCM Automation Suite on kokoelma automaatiotyökaluja ja skriptejä, jotka tuke
 - **Python**: Automaatioskriptit
 - **Markdown & GitHub**: Dokumentaatio ja julkaisut
 
-## 🔒 Compliance
+##  Compliance
 - ISO 27001 (Annex A)
 - NIST CSF
 - ITIL-viitekehys
@@ -84,7 +84,7 @@ DLCM Automation Suite on kokoelma automaatiotyökaluja ja skriptejä, jotka tuke
 ## ✅ Arkkitehtuuri
 ![DLCM-Architecture](diagrams/dlcm-architecture.png)
 
-## 🚀 Käyttö
+##  Käyttö
 1. Kloonaa repo
 2. Asenna riippuvuudet (`pip install -r requirements.txt`)
 3. Siirry haluttuun moduuliin ja aja esimerkit
@@ -97,12 +97,12 @@ Tervetuloa kehittämään DLCM Automation Suitea! Tee pull request tai avaa issu
 # AI-Zapier-Workflows  
 Automatisoidut Zapier-integraatiot, jotka tukevat DLCM-prosesseja ja compliance-vaatimuksia.
 
-## 🛠️ Teknologiat
+##  Teknologiat
 - Zapier API
 - Python
 - AI (ChatGPT/Gemini)
 
-## 🔍 Ominaisuudet
+##  Ominaisuudet
 - Käyttäjien lifecycle-hallinta (provisioning → deprovisioning)
 - Slack, Teams ja ClickUp-integraatiot
 - Auditlogien tallennus ISO 27001 & NIST standardien mukaan

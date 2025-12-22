@@ -7,13 +7,14 @@ This proposal is not merely a technical improvement; it represents a **strategic
 ## 1. Foundation: Maximizing Efficiency (IaC)
 
 **Infrastructure as Code (IaC)** forms the foundation of modern IT operations, solving the long-standing issues of manual and error-prone system maintenance.
-![Lifecycle Managed](https://img.shields.io/badge/Lifecycle-Device%20Onboarding%20%E2%86%92%20Maintenance%20%E2%86%92%20Decommissioning-success?style=for-the-badge)
 
 | Component | Rationale | Strategic Value |
 | :--- | :--- | :--- |
 | **Technical Implementation (IaC)** | Replaces manual installation and configuration with code, utilizing existing expertise in **PowerShell and Azure Automation**. | **Speed & Scalability:** Entire environments (e.g., Intune workstations, Azure servers) can be deployed or replicated in minutes, enabling rapid scaling without increasing expert headcount. |
 | **Error-Free Operation** | Codified environments eliminate human configuration errors. | **Cost Efficiency:** Fewer errors mean fewer hours spent on troubleshooting and rework, directly improving margins. |
 | **Documentation by Design** | When infrastructure is defined as code, it effectively **documents itself**. | **Operational Clarity:** Reduces manual documentation work and allows focusing on strategic planning, architecture, and AI-assisted documentation. |
+
+![Lifecycle Managed](https://img.shields.io/badge/Lifecycle-Device%20Onboarding%20%E2%86%92%20Maintenance%20%E2%86%92%20Decommissioning-success?style=for-the-badge)
 
 ---
 

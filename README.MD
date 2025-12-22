@@ -7,6 +7,7 @@ This proposal is not merely a technical improvement; it represents a **strategic
 ## 1. Foundation: Maximizing Efficiency (IaC)
 
 **Infrastructure as Code (IaC)** forms the foundation of modern IT operations, solving the long-standing issues of manual and error-prone system maintenance.
+![Lifecycle Managed](https://img.shields.io/badge/Lifecycle-Device%20Onboarding%20%E2%86%92%20Maintenance%20%E2%86%92%20Decommissioning-success?style=for-the-badge)
 
 | Component | Rationale | Strategic Value |
 | :--- | :--- | :--- |

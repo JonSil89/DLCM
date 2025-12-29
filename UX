@@ -1,1 +1,10 @@
-Style UX
+# A typical DLCM UX structure
+view:
+  header:
+    title: "Data Dashboard"
+    visible: yes             # Allowed by 'truthy: disable'
+  components:
+    - type: "data-grid"
+      style: "primary-grid"  # References your Style file
+      refresh_rate: 30
+

@@ -1,0 +1,5 @@
+# This file lives in your root
+learning_rate: 0.5
+use_lstm: yes          # Allowed by your 'truthy: disable' rule
+loss_func: 'attrank'
+num_layers: 1

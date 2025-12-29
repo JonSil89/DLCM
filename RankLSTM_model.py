@@ -864,4 +864,6 @@ class RankLSTM(object):
 					else c_v
 					for (c_v, t) in zip(values_clipped, t_list)]
 
+
 		return list_clipped
+  """

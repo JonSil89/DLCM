@@ -1,5 +1,8 @@
 # Strategic Summary: IaC & DLCM in Modern Service Delivery
 
+![Operational Power](https://img.shields.io/badge/Operational%20Power-POSIX%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash)
+
+
 This proposal is not merely a technical improvement; it represents a **strategic transition towards a less risky, more scalable, and commercially more successful** model of IT service delivery.
 
 ---

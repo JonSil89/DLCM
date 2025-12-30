@@ -66,16 +66,6 @@ This holistic approach not only modernizes infrastructure but also aligns every 
 
 ---
 
-### Author
-
-**Jonne Silvennonen**  
-Technical Writer & ITSM/Compliance Specialist  
-Expertise in IaC, DLCM, PRRC, Azure, PowerShell, and Welfare-Sector IT Systems
-
-://img.shields.io/badge/Lifecycle-Device%20Onboarding%20%E2%86%92%20Maintenance%20%E2%86%92%20Decommissioning-success?style=for-the-badge)
-
----
-
 ## 2. Top-Tier Quality and Compliance Assurance (DLCM & PRRC)
 
 Combining **Digital Lifecycle Management (DLCM)** with **compliance and regulatory expertise (PRRC)** elevates automation to the level of **statutory compliance governance**.

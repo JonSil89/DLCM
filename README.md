@@ -120,3 +120,9 @@ This holistic approach not only modernizes infrastructure but also aligns every 
 Technical Writer & ITSM/Compliance Specialist  
 Expertise in IaC, DLCM, PRRC, Azure, PowerShell, and Welfare-Sector IT Systems
 
+
+://img.shields.io/badge/Lifecycle-Device%20Onboarding%20%E2%86%92%20Maintenance%20%E2%86%92%20Decommissioning-success?style=for-the-badge)
+
+
+---
+

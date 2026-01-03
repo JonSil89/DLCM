@@ -1,0 +1,5 @@
+learning_rate: 0.05
+loss_func: attrank
+use_lstm: yes       # Your linter allows 'yes'
+num_layers: 2
+batch_size: 32

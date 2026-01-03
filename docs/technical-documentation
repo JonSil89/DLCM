@@ -1,0 +1,105 @@
+# 🔧 Device Lifecycle Management (DLCM) – Technical Documentation
+
+_Last updated: 2025-08-27_  
+_Author: IT Operations_
+
+---
+
+## 📘 Overview
+
+This document outlines the full lifecycle of devices managed within the organization. The purpose is to ensure traceability, security, and compliance across all stages: onboarding, active use, and decommissioning.
+
+---
+
+## 📦 1. Onboarding
+
+**Goal:** Prepare a device for secure and compliant operational use.
+
+**Steps:**
+
+1. Procure device through approved vendor.
+2. Register device in Asset Management System (AMS).
+3. Assign to user or department.
+4. Install:
+   - OS and security updates
+   - Required enterprise applications
+   - Endpoint protection (EDR/AV)
+5. Enroll in MDM (Mobile Device Management).
+6. Record configuration baseline and ownership.
+
+**Automation Tip:** Use ClickUp + Zapier to auto-create onboarding tasks when a new device is registered.
+
+---
+
+## 🔄 2. Active Use & Maintenance
+
+**Goal:** Maintain operational integrity, performance, and security.
+
+**Tasks:**
+
+- Monitor device health and uptime (via RMM).
+- Apply security patches (monthly).
+- Log all incidents and support cases.
+- Review compliance quarterly.
+- Replace batteries/parts if needed.
+
+**Common Issues:**
+
+| Issue              | Description                                  | Resolution                    |
+|-------------------|----------------------------------------------|-------------------------------|
+| Device overheating | Fan failure or dust clogging vents           | Clean or replace fan          |
+| Network loop       | Duplicate cabling or unmanaged switch error  | See [Network Loop Issue](#-network-loop-issue-verkkoluuppi) |
+
+---
+
+## 🧯 Network Loop Issue (Verkkoluuppi)
+
+**Definition:** A misconfiguration where packets endlessly circulate the network.
+
+**Detected by:**
+- STP reconfigurations
+- Broadcast storms
+- Device log alerts
+
+**Fix:**
+1. Unplug suspected loop port.
+2. Check STP configuration.
+3. Apply BPDU Guard or loop detection.
+
+---
+
+## 🧹 3. Offboarding & Decommissioning
+
+**Goal:** Securely remove devices from operation.
+
+**Steps:**
+
+1. Unassign device from user in AMS.
+2. Perform secure data wipe (e.g. DoD 5220.22-M).
+3. Remove from MDM.
+4. Update lifecycle status to "Retired".
+5. Send device to:
+   - Recycling (certified vendor), or
+   - Storage (if reusable)
+
+**Compliance Note:** Ensure audit log is complete before disposal.
+
+---
+
+## 📁 Related Resources
+
+- [IT Asset Management Policy (PDF)](https://yourcompany.com/policies/it-asset-management.pdf)
+- [ISO 27001 Risk Workflow](https://yourcompany.com/iso27001-risk)
+- [MDM Configuration Guide](https://yourcompany.com/mdm-setup)
+
+---
+
+## ✅ Checklist Summary
+
+- [x] Asset registered
+- [x] MDM-enrolled
+- [x] User assigned
+- [x] Baseline documented
+- [x] Securely wiped
+- [x] Retired status logged
+

@@ -1,0 +1,16 @@
+├── README.md
+   ├── modules/
+   │     ├── ai-zapier-workflows/
+   │     │     └── README.md
+   │     ├── ai-clickup-automation/
+   │     │     └── README.md
+   │     ├── ai-documentation-pipeline/
+   │     │     └── README.md
+   │     └── ai-compliance-assistant/
+   │           └── README.md
+   ├── diagrams/
+   │     └── dlcm-architecture.png
+   ├── docs/
+         ├── iso27001-annex-a.md
+         ├── nist-csf-framework.md
+         ├── itil-processes.md
